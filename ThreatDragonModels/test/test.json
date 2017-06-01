@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "johnq",
+    "description": "high level description"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "johnq"
+  }
+}
