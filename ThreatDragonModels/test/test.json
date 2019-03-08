@@ -5,8 +5,18 @@
     "description": "high level description"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "johnq"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "testdiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "johnq"
   }
 }
